@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/marcushuynh.github.io/static/css/main.a613decb.css",
-    "main.js": "/marcushuynh.github.io/static/js/main.a2461a88.js",
-    "static/media/me.png": "/marcushuynh.github.io/static/media/me.821ecddcb9953b46bf75.png",
-    "static/media/me-about.jpg": "/marcushuynh.github.io/static/media/me-about.fb4452e7f286d3636ef9.jpg",
-    "static/media/resume.pdf": "/marcushuynh.github.io/static/media/resume.da4b7344f82579dc61ec.pdf",
-    "static/media/portfolio1.jpg": "/marcushuynh.github.io/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
-    "index.html": "/marcushuynh.github.io/index.html",
-    "main.a613decb.css.map": "/marcushuynh.github.io/static/css/main.a613decb.css.map",
-    "main.a2461a88.js.map": "/marcushuynh.github.io/static/js/main.a2461a88.js.map"
+    "main.css": "/MarcusHuynhPortfolio/static/css/main.a613decb.css",
+    "main.js": "/MarcusHuynhPortfolio/static/js/main.0b4db2d0.js",
+    "static/media/me.png": "/MarcusHuynhPortfolio/static/media/me.821ecddcb9953b46bf75.png",
+    "static/media/me-about.jpg": "/MarcusHuynhPortfolio/static/media/me-about.fb4452e7f286d3636ef9.jpg",
+    "static/media/resume.pdf": "/MarcusHuynhPortfolio/static/media/resume.da4b7344f82579dc61ec.pdf",
+    "static/media/portfolio1.jpg": "/MarcusHuynhPortfolio/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "index.html": "/MarcusHuynhPortfolio/index.html",
+    "main.a613decb.css.map": "/MarcusHuynhPortfolio/static/css/main.a613decb.css.map",
+    "main.0b4db2d0.js.map": "/MarcusHuynhPortfolio/static/js/main.0b4db2d0.js.map"
   },
   "entrypoints": [
     "static/css/main.a613decb.css",
-    "static/js/main.a2461a88.js"
+    "static/js/main.0b4db2d0.js"
   ]
 }
