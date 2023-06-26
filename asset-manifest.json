@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/MarcusHuynhPortfolio/static/css/main.24106da8.css",
-    "main.js": "/MarcusHuynhPortfolio/static/js/main.b5fc8e02.js",
+    "main.css": "/MarcusHuynhPortfolio/static/css/main.90684086.css",
+    "main.js": "/MarcusHuynhPortfolio/static/js/main.7db7cce3.js",
     "static/media/me.png": "/MarcusHuynhPortfolio/static/media/me.1b1dc966fa1156ffa502.png",
-    "static/media/me-about.jpg": "/MarcusHuynhPortfolio/static/media/me-about.fb4452e7f286d3636ef9.jpg",
-    "static/media/resume.pdf": "/MarcusHuynhPortfolio/static/media/resume.da4b7344f82579dc61ec.pdf",
+    "static/media/me-about.jpg": "/MarcusHuynhPortfolio/static/media/me-about.eb9b6a1c345e8ddb9dc1.jpg",
+    "static/media/portfolio1.jpg": "/MarcusHuynhPortfolio/static/media/portfolio1.68fb979bbba35ee173cb.jpg",
+    "static/media/resume.pdf": "/MarcusHuynhPortfolio/static/media/resume.fd2b3a11e270abefa9e1.pdf",
     "static/media/loading.jpg": "/MarcusHuynhPortfolio/static/media/loading.53841861790847abbec3.jpg",
-    "static/media/portfolio1.jpg": "/MarcusHuynhPortfolio/static/media/portfolio1.807be1fc725c7db4eecf.jpg",
     "index.html": "/MarcusHuynhPortfolio/index.html",
-    "main.24106da8.css.map": "/MarcusHuynhPortfolio/static/css/main.24106da8.css.map",
-    "main.b5fc8e02.js.map": "/MarcusHuynhPortfolio/static/js/main.b5fc8e02.js.map"
+    "main.90684086.css.map": "/MarcusHuynhPortfolio/static/css/main.90684086.css.map",
+    "main.7db7cce3.js.map": "/MarcusHuynhPortfolio/static/js/main.7db7cce3.js.map"
   },
   "entrypoints": [
-    "static/css/main.24106da8.css",
-    "static/js/main.b5fc8e02.js"
+    "static/css/main.90684086.css",
+    "static/js/main.7db7cce3.js"
   ]
 }
