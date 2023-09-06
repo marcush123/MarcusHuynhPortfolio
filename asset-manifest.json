@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.90684086.css",
-    "main.js": "/static/js/main.df76321f.js",
-    "static/media/me.png": "/static/media/me.1b1dc966fa1156ffa502.png",
-    "static/media/me-about.jpg": "/static/media/me-about.eb9b6a1c345e8ddb9dc1.jpg",
-    "static/media/portfolio1.jpg": "/static/media/portfolio1.68fb979bbba35ee173cb.jpg",
-    "static/media/resume.pdf": "/static/media/resume.fd2b3a11e270abefa9e1.pdf",
-    "static/media/loading.jpg": "/static/media/loading.53841861790847abbec3.jpg",
-    "static/media/ToDoApp.png": "/static/media/ToDoApp.793570577bb90127d497.png",
-    "index.html": "/index.html",
-    "main.90684086.css.map": "/static/css/main.90684086.css.map",
-    "main.df76321f.js.map": "/static/js/main.df76321f.js.map"
+    "main.css": "/MarcusHuynhPortfolio/static/css/main.90684086.css",
+    "main.js": "/MarcusHuynhPortfolio/static/js/main.df76321f.js",
+    "static/media/me.png": "/MarcusHuynhPortfolio/static/media/me.1b1dc966fa1156ffa502.png",
+    "static/media/me-about.jpg": "/MarcusHuynhPortfolio/static/media/me-about.eb9b6a1c345e8ddb9dc1.jpg",
+    "static/media/portfolio1.jpg": "/MarcusHuynhPortfolio/static/media/portfolio1.68fb979bbba35ee173cb.jpg",
+    "static/media/resume.pdf": "/MarcusHuynhPortfolio/static/media/resume.fd2b3a11e270abefa9e1.pdf",
+    "static/media/loading.jpg": "/MarcusHuynhPortfolio/static/media/loading.53841861790847abbec3.jpg",
+    "static/media/ToDoApp.png": "/MarcusHuynhPortfolio/static/media/ToDoApp.793570577bb90127d497.png",
+    "index.html": "/MarcusHuynhPortfolio/index.html",
+    "main.90684086.css.map": "/MarcusHuynhPortfolio/static/css/main.90684086.css.map",
+    "main.df76321f.js.map": "/MarcusHuynhPortfolio/static/js/main.df76321f.js.map"
   },
   "entrypoints": [
     "static/css/main.90684086.css",
